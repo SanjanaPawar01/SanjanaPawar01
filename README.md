@@ -19,6 +19,7 @@ I'm a B.Sc. Information Technology graduate passionate about data analytics, bus
 **Database:** MySQL, SQLite
 
 **Other:** Streamlit, ETL, Data Cleaning, EDA
+
 ---
 ### 📌 Featured Projects
 
